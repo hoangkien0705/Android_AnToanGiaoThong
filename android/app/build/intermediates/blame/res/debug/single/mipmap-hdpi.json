@@ -2,5 +2,9 @@
     {
         "merged": "D:\\STUDY_WORK\\react_native\\sample\\AnToanGiaoThong\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "D:\\STUDY_WORK\\react_native\\sample\\AnToanGiaoThong\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\STUDY_WORK\\react_native\\project\\AnToanGiaoThong\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\STUDY_WORK\\react_native\\project\\AnToanGiaoThong\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]
