@@ -20,7 +20,7 @@ export default class AnToanGiaoThong extends Component {
           Welcome to App AnToanGiaoTHong!
         </Text>
         <Text style={styles.instructions}>
-          Bay gio lam the nao day
+          Bay gio lam thay doi repository
         </Text>
         <Text style={styles.instructions}>
           Double tap R on your keyboard to reload,{'\n'}
